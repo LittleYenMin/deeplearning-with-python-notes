@@ -4,7 +4,7 @@ Implementation by the book **Deep Learning with Python**.
 
 Chapters
 ----------
- - [x] 2 開始之前：了解神經網路的數學概念
+ - [x] 2 開始之前：了解神經網路的數學概念 [link](https://github.com/LittleYenMin/deeplearning-with-python-notes/tree/master/Chapter2)
  - [ ] 3 開始使用神經網路
  - [ ] 4 機器學習的基礎知識
  - [ ] 5 深度學習實務電腦視覺的深度學習

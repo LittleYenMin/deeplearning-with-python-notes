@@ -27,4 +27,4 @@ print(history)
 
 # review the train result by evaluate() method and test datasets.
 test_loss, test_acc = network.evaluate(test_images, test_labels)
-print(test_loss, test_acc)
+print('loss: {} - acc: {}'.format(test_loss, test_acc))

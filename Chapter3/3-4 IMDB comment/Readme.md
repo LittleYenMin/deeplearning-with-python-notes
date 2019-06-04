@@ -6,6 +6,7 @@ According to this, you will know the training only fit for the train data (overf
 ![](readme/overfitting-train.jpg)
 
 So, someone (the writer XD) according to the picture found the best period (between 3 ~ 5) to get higher accuracy in training and validation.
+
 ![](readme/best-train-block.jpg)
 
 Evaluate result (epoch 20)

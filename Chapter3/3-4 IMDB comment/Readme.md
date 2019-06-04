@@ -8,7 +8,7 @@ According to this, you will know the training only fit for the train data (overf
 So, someone (the writer XD) according to the picture found the best period (between 3 ~ 5) to get higher accuracy.
 ![](readme/best-train-block.jpg)
 
-Overfitting train result (epoch 20)
+Evaluate result (epoch 20)
 ------------
 [code](overfit.py)
 

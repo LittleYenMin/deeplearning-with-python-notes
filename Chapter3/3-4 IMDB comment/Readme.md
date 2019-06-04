@@ -1,4 +1,4 @@
-In first time, someone set the epochs to 20 times. 
+In the first time, the writer set the epochs to 20 times. 
 
 the picture below is training and validation accuracy result for 20 times epoch.
 

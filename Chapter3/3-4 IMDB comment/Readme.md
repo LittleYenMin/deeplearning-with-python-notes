@@ -18,4 +18,4 @@ Evaluate result (epoch 4)
 ----------------
 [code](comment%20classification.py)
 
-![](readme/evaluate-result.jpg)
+![](readme/retrain.jpg)

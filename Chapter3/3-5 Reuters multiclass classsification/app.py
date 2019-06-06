@@ -11,7 +11,7 @@ result = reuters.model.evaluate(reuters.x_test_data, reuters.y_test_label)
 print('loss: {}, accuracy: {}'.format(result[0], result[1]))
 
 predictions = reuters.model.predict(reuters.x_test_data)
-print(predictions)
+print(reuters.decoded_newswire(reuters.x_test_data[0]))
 print('odds: ', predictions[0])
 print('sum of all odds: {}'.format(numpy.sum(predictions[0])))
 max_odds_index = numpy.argmax(predictions[0])
